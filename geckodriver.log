@@ -1,0 +1,197 @@
+1629921050321	geckodriver	INFO	Listening on 127.0.0.1:63811
+1629921050331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHOROK~1\\AppData\\Local\\Temp\\rust_mozprofileheSE6Y"
+1629921050792	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shorokhova\\AppData\\Local\\Temp\\rust_mozprofileheSE6Y\\search.json.mozlz4", (void 0)))
+1629921053709	Marionette	INFO	Listening on port 63816
+1629921054046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/accounts/login/, line 624: ReferenceError: oscar is not defined
+1629921055815	Marionette	INFO	Stopped listening on port 63816
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629997648640	geckodriver	INFO	Listening on 127.0.0.1:60284
+1629997648684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHOROK~1\\AppData\\Local\\Temp\\rust_mozprofile8DKXqF"
+1629997648990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shorokhova\\AppData\\Local\\Temp\\rust_mozprofile8DKXqF\\search.json.mozlz4", (void 0)))
+1629997650963	Marionette	INFO	Listening on port 60289
+1629997651373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/accounts/login/, line 624: ReferenceError: oscar is not defined
+1629997652986	Marionette	INFO	Stopped listening on port 60289
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629997973853	geckodriver	INFO	Listening on 127.0.0.1:60841
+1629997973875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHOROK~1\\AppData\\Local\\Temp\\rust_mozprofiledjmOhB"
+1629997974181	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shorokhova\\AppData\\Local\\Temp\\rust_mozprofiledjmOhB\\search.json.mozlz4", (void 0)))
+1629997976268	Marionette	INFO	Listening on port 60846
+1629997976562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/accounts/login/, line 624: ReferenceError: oscar is not defined
+1629997978113	Marionette	INFO	Stopped listening on port 60846
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629998180694	geckodriver	INFO	Listening on 127.0.0.1:58250
+1629998180706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHOROK~1\\AppData\\Local\\Temp\\rust_mozprofileXA44Sz"
+1629998181028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shorokhova\\AppData\\Local\\Temp\\rust_mozprofileXA44Sz\\search.json.mozlz4", (void 0)))
+1629998182801	Marionette	INFO	Listening on port 58255
+1629998182890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/accounts/login/, line 624: ReferenceError: oscar is not defined
+1629998184398	Marionette	INFO	Stopped listening on port 58255
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629998185044	geckodriver	INFO	Listening on 127.0.0.1:58295
+1629998185577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHOROK~1\\AppData\\Local\\Temp\\rust_mozprofileYLk79w"
+1629998185869	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shorokhova\\AppData\\Local\\Temp\\rust_mozprofileYLk79w\\search.json.mozlz4", (void 0)))
+1629998187789	Marionette	INFO	Listening on port 58300
+1629998188279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1629998189618	Marionette	INFO	Stopped listening on port 58300
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629998679487	geckodriver	INFO	Listening on 127.0.0.1:55889
+1629998679536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHOROK~1\\AppData\\Local\\Temp\\rust_mozprofileO1vNzM"
+1629998679825	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shorokhova\\AppData\\Local\\Temp\\rust_mozprofileO1vNzM\\search.json.mozlz4", (void 0)))
+1629998681822	Marionette	INFO	Listening on port 55894
+1629998682224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/accounts/login/, line 624: ReferenceError: oscar is not defined
+1629998683877	Marionette	INFO	Stopped listening on port 55894
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629998684414	geckodriver	INFO	Listening on 127.0.0.1:55933
+1629998684930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHOROK~1\\AppData\\Local\\Temp\\rust_mozprofile9mfI1C"
+1629998685228	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shorokhova\\AppData\\Local\\Temp\\rust_mozprofile9mfI1C\\search.json.mozlz4", (void 0)))
+1629998687157	Marionette	INFO	Listening on port 55938
+1629998687628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1629998699412	Marionette	INFO	Stopped listening on port 55938
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629999106401	geckodriver	INFO	Listening on 127.0.0.1:60663
+1629999106446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHOROK~1\\AppData\\Local\\Temp\\rust_mozprofileME8ajf"
+1629999106731	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shorokhova\\AppData\\Local\\Temp\\rust_mozprofileME8ajf\\search.json.mozlz4", (void 0)))
+1629999108638	Marionette	INFO	Listening on port 60668
+1629999109131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/the-shellcoders-handbook_209/?promo=midsummer, line 614: ReferenceError: oscar is not defined
+1629999120730	Marionette	INFO	Stopped listening on port 60668
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629999121343	geckodriver	INFO	Listening on 127.0.0.1:60717
+1629999121893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHOROK~1\\AppData\\Local\\Temp\\rust_mozprofilekCRx8u"
+1629999122187	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shorokhova\\AppData\\Local\\Temp\\rust_mozprofilekCRx8u\\search.json.mozlz4", (void 0)))
+1629999124190	Marionette	INFO	Listening on port 60722
+1629999124587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/the-shellcoders-handbook_209/?promo=midsummer, line 614: ReferenceError: oscar is not defined
+1629999136016	Marionette	INFO	Stopped listening on port 60722
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629999825036	geckodriver	INFO	Listening on 127.0.0.1:55076
+1629999825043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHOROK~1\\AppData\\Local\\Temp\\rust_mozprofileQJJzqL"
+1629999825344	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shorokhova\\AppData\\Local\\Temp\\rust_mozprofileQJJzqL\\search.json.mozlz4", (void 0)))
+1629999827217	Marionette	INFO	Listening on port 55081
+1629999827723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/the-shellcoders-handbook_209/?promo=midsummer, line 614: ReferenceError: oscar is not defined
+1629999839312	Marionette	INFO	Stopped listening on port 55081
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629999840068	geckodriver	INFO	Listening on 127.0.0.1:55129
+1629999840616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHOROK~1\\AppData\\Local\\Temp\\rust_mozprofileiq7l3V"
+1629999840920	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shorokhova\\AppData\\Local\\Temp\\rust_mozprofileiq7l3V\\search.json.mozlz4", (void 0)))
+1629999842813	Marionette	INFO	Listening on port 55134
+1629999843303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/the-shellcoders-handbook_209/?promo=midsummer, line 614: ReferenceError: oscar is not defined
+1629999854741	Marionette	INFO	Stopped listening on port 55134
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629999889970	geckodriver	INFO	Listening on 127.0.0.1:55188
+1629999889981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHOROK~1\\AppData\\Local\\Temp\\rust_mozprofileAWvJjS"
+1629999890274	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shorokhova\\AppData\\Local\\Temp\\rust_mozprofileAWvJjS\\search.json.mozlz4", (void 0)))
+1629999892153	Marionette	INFO	Listening on port 55193
+1629999892654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/the-shellcoders-handbook_209/?promo=midsummer, line 614: ReferenceError: oscar is not defined
+1629999904167	Marionette	INFO	Stopped listening on port 55193
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629999904784	geckodriver	INFO	Listening on 127.0.0.1:56075
+1629999905297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHOROK~1\\AppData\\Local\\Temp\\rust_mozprofileduvTbI"
+1629999905592	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shorokhova\\AppData\\Local\\Temp\\rust_mozprofileduvTbI\\search.json.mozlz4", (void 0)))
+1629999907414	Marionette	INFO	Listening on port 56080
+1629999907460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/the-shellcoders-handbook_209/?promo=midsummer, line 614: ReferenceError: oscar is not defined
+1629999918744	Marionette	INFO	Stopped listening on port 56080
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630000732279	geckodriver	INFO	Listening on 127.0.0.1:57823
+1630000732295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHOROK~1\\AppData\\Local\\Temp\\rust_mozprofile33TBUh"
+1630000732576	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shorokhova\\AppData\\Local\\Temp\\rust_mozprofile33TBUh\\search.json.mozlz4", (void 0)))
+1630000734461	Marionette	INFO	Listening on port 57828
+1630000734957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/the-shellcoders-handbook_209/?promo=midsummer, line 614: ReferenceError: oscar is not defined
+1630000746619	Marionette	INFO	Stopped listening on port 57828
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630000747235	geckodriver	INFO	Listening on 127.0.0.1:65288
+1630000747771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHOROK~1\\AppData\\Local\\Temp\\rust_mozprofileyTYXBM"
+1630000748050	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shorokhova\\AppData\\Local\\Temp\\rust_mozprofileyTYXBM\\search.json.mozlz4", (void 0)))
+1630000749974	Marionette	INFO	Listening on port 65293
+1630000750441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/the-shellcoders-handbook_209/?promo=midsummer, line 614: ReferenceError: oscar is not defined
+1630000761768	Marionette	INFO	Stopped listening on port 65293
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630000943196	geckodriver	INFO	Listening on 127.0.0.1:52541
+1630000943227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHOROK~1\\AppData\\Local\\Temp\\rust_mozprofile9g47ba"
+1630000943528	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shorokhova\\AppData\\Local\\Temp\\rust_mozprofile9g47ba\\search.json.mozlz4", (void 0)))
+1630000945521	Marionette	INFO	Listening on port 52546
+1630000945891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/the-shellcoders-handbook_209/?promo=midsummer, line 614: ReferenceError: oscar is not defined
+1630000957409	Marionette	INFO	Stopped listening on port 52546
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630000958032	geckodriver	INFO	Listening on 127.0.0.1:60984
+1630000958596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SHOROK~1\\AppData\\Local\\Temp\\rust_mozprofileFtUFD9"
+1630000958881	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Shorokhova\\AppData\\Local\\Temp\\rust_mozprofileFtUFD9\\search.json.mozlz4", (void 0)))
+1630000960902	Marionette	INFO	Listening on port 60990
+1630000961277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/the-shellcoders-handbook_209/?promo=midsummer, line 614: ReferenceError: oscar is not defined
+1630000972617	Marionette	INFO	Stopped listening on port 60990
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
